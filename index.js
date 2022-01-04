@@ -2,7 +2,7 @@
  * @Author: zhangjiarun
  * @Date: 2022-01-04 15:31:20
  * @LastEditors: [you name]
- * @LastEditTime: 2022-01-04 16:04:12
+ * @LastEditTime: 2022-01-04 17:07:55
  * @Description: 测试git 
  */
 
@@ -17,6 +17,6 @@ class Point {
   }
 
   toString() {
-    return '(' + this.x + ', ' + this.y + ')';
+    return '(' + this.x + ', ' + this.y + ') ~' ;
   }
 }
