@@ -2,7 +2,7 @@
  * @Author: zhangjiarun
  * @Date: 2022-04-13 14:29:21
  * @LastEditors: [you name]
- * @LastEditTime: 2022-04-13 14:32:05
+ * @LastEditTime: 2022-04-13 14:33:59
  * @Description: 文件头的一些描述
  */
 module.exports = {
@@ -13,5 +13,10 @@ module.exports = {
         '新增布局功能',
         '新增路由功能',
         '新增vuex功能'
+    ],
+    bugs: [
+        'bug1',
+        'bug2',
+        'bug3'
     ]
 }
