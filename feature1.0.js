@@ -24,7 +24,6 @@ module.exports = {
         'bug1',
         'bug2',
         'bug3 —— 新增功能1.1 解决'
-    ],
-    
+        'bug4'
 
 }
