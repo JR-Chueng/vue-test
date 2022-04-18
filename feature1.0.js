@@ -2,16 +2,16 @@
  * @Author: zhangjiarun
  * @Date: 2022-04-13 14:29:21
  * @LastEditors: [you name]
- * @LastEditTime: 2022-04-18 13:38:48
+ * @LastEditTime: 2022-04-18 14:19:17
  * @Description: 文件头的一些描述
  */
 module.exports = {
     name: 'feature',
     dec: 'feature 分支',
     addOptions: [
-        '新增菜单功能',
-        '新增布局功能',
-        '新增路由功能',
+        '新增菜单功能1.1',
+        '新增布局功能1.1',
+        '新增路由功能1.1',
         '新增vuex功能'
     ],
     bugs: [
@@ -22,7 +22,8 @@ module.exports = {
     ],
     fixedBugs: [
         'bug1',
-        'bug2',
-    ]
+        'bug2'
+    ],
+    
 
 }
