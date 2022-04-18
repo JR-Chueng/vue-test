@@ -2,7 +2,7 @@
  * @Author: zhangjiarun
  * @Date: 2022-04-13 14:29:21
  * @LastEditors: [you name]
- * @LastEditTime: 2022-04-18 13:38:48
+ * @LastEditTime: 2022-04-18 14:24:42
  * @Description: 文件头的一些描述
  */
 module.exports = {
@@ -12,7 +12,8 @@ module.exports = {
         '新增菜单功能',
         '新增布局功能',
         '新增路由功能',
-        '新增vuex功能'
+        '新增vuex功能',
+        '全局通信功能'
     ],
     bugs: [
         'bug1',
@@ -23,6 +24,8 @@ module.exports = {
     fixedBugs: [
         'bug1',
         'bug2',
+        'bug3',
+        'bug4'
     ]
 
 }
