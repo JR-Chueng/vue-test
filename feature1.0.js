@@ -2,7 +2,7 @@
  * @Author: zhangjiarun
  * @Date: 2022-04-13 14:29:21
  * @LastEditors: [you name]
- * @LastEditTime: 2022-04-18 14:19:17
+ * @LastEditTime: 2022-04-18 14:21:09
  * @Description: 文件头的一些描述
  */
 module.exports = {
@@ -22,7 +22,8 @@ module.exports = {
     ],
     fixedBugs: [
         'bug1',
-        'bug2'
+        'bug2',
+        'bug3 —— 新增功能1.1 解决'
     ],
     
 
