@@ -2,7 +2,7 @@
  * @Author: zhangjiarun
  * @Date: 2022-04-13 14:29:21
  * @LastEditors: [you name]
- * @LastEditTime: 2022-04-13 14:33:59
+ * @LastEditTime: 2022-04-18 13:38:48
  * @Description: 文件头的一些描述
  */
 module.exports = {
@@ -17,6 +17,12 @@ module.exports = {
     bugs: [
         'bug1',
         'bug2',
-        'bug3'
+        'bug3',
+        'bug4'
+    ],
+    fixedBugs: [
+        'bug1',
+        'bug2',
     ]
+
 }
