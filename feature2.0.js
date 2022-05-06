@@ -2,7 +2,7 @@
  * @Author: zhangjiarun
  * @Date: 2022-04-18 13:36:30
  * @LastEditors: [you name]
- * @LastEditTime: 2022-04-18 14:22:47
+ * @LastEditTime: 2022-05-06 14:33:44
  * @Description: 文件头的一些描述
  */
 module.exports = {
@@ -11,6 +11,7 @@ module.exports = {
     addOptions: [
         '新增页面功能',
         '新增通讯功能2.1',
+        '新增通讯功能2.2',
         '新增主页面'
     ],
     bugs: [
